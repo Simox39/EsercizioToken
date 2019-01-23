@@ -7,11 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="btnStart1" Content="Start1" HorizontalAlignment="Left" Margin="184,72,0,0" VerticalAlignment="Top" Width="75" Click="btnStar1_Click"/>
+        <Button x:Name="btnStart1" Content="Start1" HorizontalAlignment="Left" Margin="184,72,0,0" VerticalAlignment="Top" Width="75" Click="btnStart1_Click"/>
         <Button x:Name="btnStart2" Content="Start2" HorizontalAlignment="Left" Margin="384,72,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button x:Name="btnStart3" Content="Start3" HorizontalAlignment="Left" Margin="597,72,0,0" VerticalAlignment="Top" Width="75" Click="btnStar3_Click"/>
+        <Button x:Name="btnStart3" Content="Start3" HorizontalAlignment="Left" Margin="597,72,0,0" VerticalAlignment="Top" Width="75" Click="btnStart3_Click"/>
         <Label x:Name="lblContenuto1" Content="Label" HorizontalAlignment="Left" Margin="184,143,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="lblContenuto2" Content="" HorizontalAlignment="Left" Margin="402,143,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblContenuto2" Content="Label" HorizontalAlignment="Left" Margin="384,143,0,0" VerticalAlignment="Top" Width="88"/>
         <Label x:Name="lblContenuto3" Content="Label" HorizontalAlignment="Left" Margin="582,143,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtMax2" HorizontalAlignment="Left" Height="23" Margin="643,187,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtDelay" HorizontalAlignment="Left" Height="23" Margin="643,228,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>

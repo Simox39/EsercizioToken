@@ -61,7 +61,7 @@ namespace EsercizioWpf
         }
         private void AggiornaUI2(Label lbl)
         {
-            lbl.Content = $"Ho finito carissimo";
+            lbl.Content = $"Ho finito fanciullo";
         }
 
         private void btnStop1_Click(object sender, RoutedEventArgs e)
